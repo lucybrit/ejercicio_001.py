@@ -58,7 +58,7 @@ else:
 
 #Impresion I
 age_in_10_years=age+10
-age_in_10_years=age+20
+age_in_20_years=age+20
 print ('Tu edad en 10 años será:', age_in_10_years)
 
 #Impresion J
